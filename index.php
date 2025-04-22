@@ -1,7 +1,7 @@
 <?php
 // Define user data
 $portfolio = [
-    "name" => "Dipson sludgsa ukdg asudg uaisg djashdkja shdahgisdhgkljdhs gkjdshgkjldhs",
+    "name" => "Dipson Shrestha",
     "title" => "Full Stack Developer",
     "bio" => "Passionate about web development and creating intuitive user experiences.",
     "image" => "https://via.placeholder.com/150", // Placeholder profile image
