@@ -1,6 +1,6 @@
 <?php
 // Define user data
-$portfolio = [
+$portfolio 
     "name" => "Dipson Shrestha",
     "title" => "Full Stack Developer",
     "bio" => "Passionate about web development and creating intuitive user experiences.",
